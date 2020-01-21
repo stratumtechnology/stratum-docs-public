@@ -1,4 +1,4 @@
-TITLE: Configuring Ubuntu WSL (Windows Subsystem for Linux) on Windows 10 Devices
+TITLE: Configuring the Azure CLI in Ubuntu WSL (Windows Subsystem for Linux) on Windows 10 Devices
 AUTHOR: Sameet Singh (sameet.singh@stratumtechnology.com)
 DATE: 01/21/2020
 
